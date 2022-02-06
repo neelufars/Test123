@@ -1,5 +1,12 @@
+ <!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
+<head>
+<title>Neelu's new website</title>
+</head>
+
+<body style="background-color:blue;">
+ <h1 style="font-family:verdana;">Welcome Folks ......</h1>
+<p style="font-family:courier;">This webpage is designed by neelufar shaik</p> 
+
 </body>
 </html>
